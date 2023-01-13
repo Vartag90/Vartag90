@@ -35,7 +35,7 @@ I am a <strong>Front-end Developer</strong> <img src="https://media.giphy.com/me
 - :grey_exclamation: other tasks.
 - :zap: In my free time, I solve problems on CodeWars and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/max-eni-carp-077305243)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/max-eni-carp-077305243)
 
 ---
 
