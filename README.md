@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/4KzpjLvJjJknJ5Xuak/giphy.gif" width="100"/>
   <div id="badges">
-  <a href="https://linkedin.com/in/max-eni-carp-077305243" target='_blank'>
+  <a href="https://linkedin.com/in/max-eni-carp-077305243">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="viber://chat?number=+37369231972">
@@ -35,7 +35,7 @@ I am a <strong>Front-end Developer</strong> <img src="https://media.giphy.com/me
 - :grey_exclamation: other tasks.
 - :zap: In my free time, I solve problems on CodeWars and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/max-eni-carp-077305243  target='_blank')
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/max-eni-carp-077305243)
 
 ---
 
