@@ -55,7 +55,7 @@ I am a <strong>Front-end Developer</strong> <img src="https://media.giphy.com/me
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Vartag90&theme=dark&background=000000)](https://git.io/streak-stats);
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Vartag90&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vartag90&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
