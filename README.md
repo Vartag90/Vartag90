@@ -59,6 +59,8 @@ I am a <strong>Front-end Developer</strong> <img src="https://media.giphy.com/me
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vartag90&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vartag90&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vartag90)](https://github.com/anuraghazra/github-readme-stats)
 
 
