@@ -55,11 +55,9 @@ I am a <strong>Front-end Developer</strong> <img src="https://media.giphy.com/me
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Vartag90&theme=dark&background=000000)](https://git.io/streak-stats);
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Vartag90)](https://git.io/streak-stats);
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Vartag90&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats-5v4c.vercel.app/api/top-langs/?username=Vartag90&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats);
+[![Top Langs](https://github-readme-stats-5v4c.vercel.app/api/top-langs/?username=Vartag90&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats-5v4c.vercel.app/api?username=Vartag90)](https://github.com/anuraghazra/github-readme-stats);
-
+[![Anurag's GitHub stats](https://github-readme-stats-5v4c.vercel.app/api?username=Vartag90&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
