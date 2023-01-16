@@ -63,4 +63,5 @@ I am a <strong>Front-end Developer</strong> <img src="https://media.giphy.com/me
 
 [![Anurag's GitHub stats](https://github-readme-stats-5v4c.vercel.app/api?username=Vartag90&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+[![codewars](https://www.codewars.com/users/Vartag/badges/small)](https://www.codewars.com/users/Vartag/badges/small) 
 
