@@ -4,9 +4,6 @@
   <a href="https://linkedin.com/in/max-eni-carp-077305243">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="viber://chat?number=+37369231972">
-    <img src="https://img.shields.io/badge/Viber-blueviolet?style=for-the-badge&logo=viber&logoColor=white" alt="Youtube Badge"/>
-  </a>
   <a href="https://twitter.com/max_eni_carp">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
